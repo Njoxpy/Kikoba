@@ -22,7 +22,7 @@ This project is a simple bank account management system implemented in C++. It a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bank-account-management-system.git
+   git clone https://github.com/Njoxpy/Kikoba
 
 2. Compile the source code using your preferred C++ compiler.
 
