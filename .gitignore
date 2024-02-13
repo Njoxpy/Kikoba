@@ -2,3 +2,4 @@
 output
 .*exe
 .*o
+main.o
