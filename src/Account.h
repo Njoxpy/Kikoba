@@ -2,6 +2,7 @@
 #ifndef ACCOUNT_H
 #define ACCOUNT_H
 
+using namespace std;
 // create account class
 class Account
 {

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include "Account.h"
+#include "Account.cpp"
 
 using namespace std;
 
@@ -23,6 +24,9 @@ int main()
     cout << "6. Exiting..." << endl;
 
     int choice;
+
+    cout << "Enter your choice: ";
+    cin >> choice;
     switch (choice)
     {
     case 1:
