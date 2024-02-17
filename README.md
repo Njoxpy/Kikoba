@@ -1,5 +1,7 @@
 # Bank Account Management System
 
+[![wakatime](https://wakatime.com/badge/user/70af596f-17d0-4c46-81e6-ed6f4a5eeae7/project/018d9e07-cc7b-4207-94cc-2fb978a29547.svg)](https://wakatime.com/badge/user/70af596f-17d0-4c46-81e6-ed6f4a5eeae7/project/018d9e07-cc7b-4207-94cc-2fb978a29547)
+
 This project is a simple bank account management system implemented in C++. It allows users to create accounts, deposit money, withdraw money, and check their account balances.
 
 ## Features
